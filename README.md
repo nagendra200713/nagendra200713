@@ -1,8 +1,9 @@
 <!-- ==================== HEADER ==================== -->
-Hey Hi I am Nagendrakumar 
+
+
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:1E90FF&height=220&section=header&text=NAGENDRA%20KUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:1E90FF&height=220&section=header&text=NAGENDRAKUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
