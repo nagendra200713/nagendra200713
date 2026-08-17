@@ -1,57 +1,194 @@
-# 🕷️ Hey! I'm NagendraKumar
+<!-- ==================== HEADER ==================== -->
+Hey Hi I am Nagendrakumar 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=With+Great+Power+Comes+Great+Responsibility+%F0%9F%95%B7%EF%B8%8F;Aspiring+Web+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+Projects+One+Commit+At+A+Time+%F0%9F%95%B7%EF%B8%8F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF0000,100:1E90FF&height=220&section=header&text=NAGENDRA%20KUMAR&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:000000,100:1E90FF&height=200&section=header&text=SPIDER%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
----
-
-## 🕷️ About Me
-
-🎓 B.Tech Artificial Intelligence & Data Science Student
-
-💻 Aspiring Web Developer
-
-🕸️ Building websites and real-world applications
-
-🚀 Learning new technologies every day
-
-☁️ Exploring GitHub & Cloud Deployment
-
-🎯 Goal: Become a Full-Stack Developer
-
-> 🕷️ **"With great power comes great responsibility."**
-
----
-
-## 🕸️ My Tech Web
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,mysql,php,git,github,vscode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Aspiring+Web+Developer;AI+%26+Data+Science+Student;Building+Real-World+Projects;Learning+Something+New+Every+Day" />
 </p>
 
 ---
 
-## 🕷️ Featured Projects
+# About Me
 
-### 🚆 Train Ticket Booking System
+I am a B.Tech Artificial Intelligence and Data Science student
+interested in Web Development, Software Development and AI.
 
-A web-based train ticket booking application.
+I enjoy building practical projects, learning new technologies
+and improving my programming skills through real-world applications.
 
-**Tech:** HTML • CSS • JavaScript • PHP • MySQL
+Currently focused on:
+
+- Web Development
+- JavaScript
+- React
+- Backend Development
+- MySQL
+- Git and GitHub
+- Cloud Deployment
+
+My long-term goal is to become a skilled Full-Stack Developer.
 
 ---
 
-### 🐍 Snake Game
+# Tech Stack
 
-A browser-based Snake Game built for practicing
-frontend development.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,php,mysql,git,github,vscode" />
+</p>
 
-**Tech:** HTML • CSS • JavaScript
+---
+
+# Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  JavaScript &nbsp; • &nbsp;
+  React &nbsp; • &nbsp;
+  Node.js &nbsp; • &nbsp;
+  Express &nbsp; • &nbsp;
+  MongoDB
+</p>
+
+---
+
+# Featured Projects
+
+## Train Ticket Booking System
+
+A web-based train ticket booking application designed
+to manage train searching, booking and passenger details.
+
+**Technologies**
+
+HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+## Snake Game
+
+A browser-based Snake Game created to practice
+frontend development and JavaScript programming.
+
+**Technologies**
+
+HTML • CSS • JavaScript
+
+---
+
+## Billing Management System
+
+A simple billing application for managing customers,
+amount details and bill generation.
+
+**Technologies**
+
+HTML • CSS • JavaScript • PHP • MySQL
+
+---
+
+# Project Links
+
+<p align="center">
+
+<a href="YOUR_TRAIN_PROJECT_URL">
+<img src="https://img.shields.io/badge/Train%20Booking-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_SNAKE_PROJECT_URL">
+<img src="https://img.shields.io/badge/Snake%20Game-1E90FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_BILLING_PROJECT_URL">
+<img src="https://img.shields.io/badge/Billing%20System-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Development Goals
+
+Build real-world projects
+
+Improve JavaScript and React skills
+
+Learn Full-Stack Development
+
+Improve backend development skills
+
+Learn REST APIs
+
+Improve database design and SQL
+
+Learn cloud deployment
+
+Contribute to Open Source
+
+Prepare for Software Development internships
+
+---
+
+# Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nagendra200713/nagendra200713/output/github-contribution-snake-dark.svg" />
+</p>
+
+---
+
+# Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nagendra200713&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=1E90FF&sideLabels=FFFFFF&dates=FFFFFF" />
+</p>
+
+---
+
+# Contribution Animation Setup
+
+The contribution animation is generated automatically from
+my GitHub contribution activity.
+
+The workflow runs automatically every day and updates
+the contribution animation.
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# Profile
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nagendra200713&label=Profile%20Views&color=FF0000&style=for-the-badge" />
+</p>
+
+<p align="center">
+  Thanks for visiting my GitHub profile.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:FF0000,100:000000&height=120&section=footer"/>
+</p>**Tech:** HTML • CSS • JavaScript
 
 ---
 
