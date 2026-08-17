@@ -1,102 +1,106 @@
 # 👋 Hi, I'm NagendraKumar
 
-### 💻 Web Developer | 🎓 B.Tech AI & Data Science Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Student+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%94%A5" />
+</p>
 
-I'm a passionate student and beginner web developer who enjoys building
-real-world web applications and learning new technologies.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
+## 🧑‍💻 About Me
 
-## 🚀 About Me
+🎓 B.Tech Artificial Intelligence & Data Science Student
 
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 💻 Interested in Web Development
-- 🌱 Currently improving my HTML, CSS, JavaScript & Git/GitHub skills
-- 🛠️ Building small real-world projects
-- ☁️ Learning deployment and cloud hosting
-- 🎯 Goal: Become a skilled Full-Stack Developer
+💻 Aspiring Web Developer
 
----
+🌱 Currently learning Web Development
 
-## 💻 Tech Stack
+🚀 Building real-world projects
 
-### 🌐 Web Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+☁️ Exploring GitHub & Cloud Deployment
 
-### 🗄️ Database
-- MySQL
-- SQL
-
-### 👨‍💻 Programming
-- Python
-- Java
-- C
-
-### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- Vercel
+🎯 Working towards becoming a Full-Stack Developer
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,mysql,php,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🚆 Train Ticket Booking System
-A web-based train ticket booking application with train search,
-seat selection, booking and user management features.
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
+A web-based train ticket booking application.
+
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
 ### 🐍 Snake Game
-A simple browser-based Snake Game created for practicing
-HTML, CSS and JavaScript.
 
-**Tech:** HTML, CSS, JavaScript
+A simple browser-based Snake Game.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 💰 Billing System
+
+A simple billing management system for managing
+customers, amounts and bills.
+
+**Tech:** HTML • CSS • JavaScript • PHP • MySQL
 
 ---
 
 ## 📚 Currently Learning
 
-- JavaScript
-- React.js
-- Backend Development
-- REST APIs
-- Git & GitHub
-- MySQL
-- Cloud Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagendra200713&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagendra200713&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 My Goals
-
-- Build more real-world projects
-- Improve my problem-solving skills
-- Learn Full-Stack Development
-- Contribute to Open Source
-- Get a Web Development / Software Development Internship
+- 🚀 Build more real-world web projects
+- 💻 Improve JavaScript & React
+- 🔧 Learn Backend Development
+- 🗄️ Improve SQL & Database skills
+- ☁️ Learn Cloud Deployment
+- 🌍 Contribute to Open Source
+- 💼 Prepare for Software Development Internships
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn profile here
-- 📧 Email: Add your professional email here
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
